@@ -436,8 +436,10 @@ model-viewer{
 
 @media (max-width: 900px) {
 
-    .container{
-        padding-bottom: 250px;
+    body::after{
+        content: "";
+        display: block;
+        height: 250px;
     }
 
 }
