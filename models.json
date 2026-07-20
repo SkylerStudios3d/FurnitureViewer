@@ -32,4 +32,15 @@
         "model": "models/Table.glb",
         "thumbnail": "thumbnails/table.jpg"
     }
+
+    { "name":"Office Chair V2",
+        "category":"Chair",
+        "price":"₹3,999",
+        "brand":"WoodCraft",
+        "material":"Metal & Cussion",
+        "dimensions":"50 × 50 × 70 cm",
+        "description":"Modern Office Chair.",
+        "model": "models/Chair2.glb",
+        "thumbnail": "thumbnails/chair2.jpg"
+    }
 ]
