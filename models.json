@@ -31,7 +31,7 @@
         "description":"Modern premium Table.",
         "model": "models/Table.glb",
         "thumbnail": "thumbnails/table.jpg"
-    }
+    },
 
     { "name":"Office Chair V2",
         "category":"Chair",
